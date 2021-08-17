@@ -6,7 +6,9 @@ Original Gruvbox theme: https://github.com/morhetz/gruvbox
 
 Install any theme by placing it in the theme folder
 
-`~/.local/share/TauonMusicBox/theme/'
+`~/.local/share/TauonMusicBox/theme/`
+
+or
 
 `~/.var/app/com.github.taiko2k.tauonmb/data/TauonMusicBox` (if using flatpak)
 
