@@ -1,5 +1,7 @@
 # tauon-gruvbox
 ### Installation
+
+
 Install any custom theme by placing the `.ttheme` in Tauon's theme folder
 
 `~/.var/app/com.github.taiko2k.tauonmb/data/TauonMusicBox` (for flatpak)
@@ -8,11 +10,18 @@ Install any custom theme by placing the `.ttheme` in Tauon's theme folder
 
 if you use the snap you are forsaken
 
+
 ### Links
+
+
 Community theme thread:
 https://github.com/Taiko2k/TauonMusicBox/discussions/461
 
-Original Gruvbox theme: https://github.com/morhetz/gruvbox
+Wiki page on theming:
+https://github.com/Taiko2k/TauonMusicBox/wiki/Theming
+
+Original Gruvbox theme:
+https://github.com/morhetz/gruvbox
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/87790164/129791516-34dd2a7f-7152-4502-8777-f594644fc677.png)
