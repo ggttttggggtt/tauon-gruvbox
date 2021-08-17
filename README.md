@@ -1,6 +1,7 @@
 # tauon-gruvbox
 More community themes:
 https://github.com/Taiko2k/TauonMusicBox/discussions/461
+
 Original Gruvbox theme: https://github.com/morhetz/gruvbox
 
 Install any theme by placing it in ~/.local/share/TauonMusicBox/theme/
