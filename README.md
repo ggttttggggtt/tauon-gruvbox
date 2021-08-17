@@ -4,9 +4,11 @@ https://github.com/Taiko2k/TauonMusicBox/discussions/461
 
 Original Gruvbox theme: https://github.com/morhetz/gruvbox
 
-Install any theme by placing it in `~/.local/share/TauonMusicBox/theme/`
+Install any theme by placing it in the theme folder
 
-If you're using the flatpak, the theme folder will be in `~/.var/app/com.github.taiko2k.tauonmb/data/TauonMusicBox`
+`~/.local/share/TauonMusicBox/theme/'
+
+`~/.var/app/com.github.taiko2k.tauonmb/data/TauonMusicBox` (if using flatpak)
 
 # Screenshots
 ![image](https://user-images.githubusercontent.com/87790164/129791516-34dd2a7f-7152-4502-8777-f594644fc677.png)
