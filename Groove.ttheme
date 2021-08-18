@@ -1,7 +1,7 @@
-#Tauon Music Box theme file
+#Snoopa Music Box theme file
 
 
-#-Backgrounds-----
+#-Backgrounds-----      #backgrounds of several elements
 
 32,32,32		player background (top panel)
 40,40,40	  	playlist panel
@@ -10,41 +10,41 @@
 32,32,32		gallery background
 35,35,35        	queue panel
 
-#-Frame--------
+#-Frame--------         #not sure what this is
 
-80,73,69		sep line
-40,40,40		bb line
-80,73,69		tb line
+21,21,21		sep line
+21,21,21		bb line
+21,21,21		tb line
 
-#-Playlist-------
+#-Playlist-------       #playlist, overrided by column settings when column is on       
 
-235,219,178		track line
+213,196,161		track line
 168,153,132		track time
 168,153,132		track index
 69,133,136		track artist
-235,219,178		album line
+168,153,132		album line
 
-251,241,199		track playing
-251,241,199		index playing
+184,187,38		track playing
+152,151,26		index playing
 250,189,47		artist playing
-251,241,199		album playing
-231,196,161		time playing
+152,151,26		album playing
+152,151,26		time playing
 
 251,73,52		track missing
 
-100,100,100		fav line
+168,153,132		fav line
 40,40,40		folder line
-235,219,178		folder title 
+184,187,38		folder title 
 
-255,255,255,8		playing highlight
-255,255,255,12		select highlight
+131,165,152,14		playing highlight
+255,255,255,8		select highlight
 69,133,136		gallery highlight
 
-#-Bottom panel------
+#-Bottom panel------    #the panel at the bottom with buttons on it
 
 80,73,69		buttons off
-250,189,47		buttons over
-235,219,178		buttons active
+235,219,178		buttons over
+250,189,47		buttons active
 
 69,133,136		playing time
 
@@ -55,34 +55,40 @@
 102,92,84		scroll bar
 
 60,56,54		mode off
-250,189,47		mode over
-235,219,178		mode on
+235,219,178		mode over
+250,189,47		mode on
 
 251,241,199		bottom title
 
-#-Menu-------------
-32,32,32        menu background
-69,133,136	menu border
-60,56,54        menu highlight
-251,241,199     menu text
-60,56,54      	menu disable text
+#-Menu-------------     #the right-click menu, and also the menu opened by the settings button
+35,35,35                menu background
+32,32,32	        menu border
+60,56,54                menu highlight
+235,219,178             menu text
+168,153,132             menu disable text
+80,73,69                menu icons
 
-#-Top panel---------
+#-Top panel---------    #the top panel with the menu button
 
 250,189,47		tab active line
-251,241,199		tab line
+235,219,178		tab line
 32,32,32		tab background
 60,56,54		tab over
 45,45,45		tab active background
 69,133,136		music vis
 
-#-Side panel--------
+#-Side panel--------    #panel that shows info of currently playing track
 
 251,241,199		title info
 235,219,178		extra info
 69,133,136		art border
 
-#-Mini Mode---------
+#-Mini Mode---------    #mini mode is activated by F8
 
-32,32,32        mini bg
-40,40,40        mini border
+40,40,40                mini bg
+32,32,32                mini border
+
+#Mini mode text         #for some reason it doesn't actually use these colors
+
+69,133,50               mini text 1
+250,189,47              mini text 2
