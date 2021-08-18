@@ -24,9 +24,9 @@ Original Gruvbox theme:
 https://github.com/morhetz/gruvbox
 
 ## Screenshots
-![image](https://user-images.githubusercontent.com/87790164/129791516-34dd2a7f-7152-4502-8777-f594644fc677.png)
-![image](https://user-images.githubusercontent.com/87790164/129791573-5a340f65-8f6d-40f7-91fe-1e02406e78aa.png)
-![image](https://user-images.githubusercontent.com/87790164/129791764-7f780ca3-e800-40f7-9a4e-4406f3ac0b51.png)
-![image](https://user-images.githubusercontent.com/87790164/129791905-f524c2d5-696c-466b-a460-81d9beb9931f.png)
+![image](https://user-images.githubusercontent.com/87790164/129839638-24a49b9a-33ac-4140-8e8b-d3991f72d6dc.png)
+![image](https://user-images.githubusercontent.com/87790164/129839720-e009ea9f-7482-4c15-b24b-904daad67fb7.png)
+![image](https://user-images.githubusercontent.com/87790164/129840060-5ede7ca9-009f-4d3c-b2d9-1a81ad769452.png)
+
 
 
