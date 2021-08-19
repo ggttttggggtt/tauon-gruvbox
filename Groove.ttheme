@@ -5,10 +5,10 @@
 
 32,32,32		player background (top panel)
 40,40,40	  	playlist panel
-69,133,136		side panel
+32,32,32		side panel
 32,32,32		bottom panel
 32,32,32		gallery background
-35,35,35        	queue panel
+32,32,32        	queue panel
 
 #-Frame--------         #not sure what this is
 
@@ -16,17 +16,17 @@
 21,21,21		bb line
 21,21,21		tb line
 
-#-Playlist-------       #playlist, overrided by column settings when column is on       
+#-Playlist-------       
 
-213,196,161		track line
-168,153,132		track time
+168,153,132		track line
+168,153,132 		track time
 168,153,132		track index
 69,133,136		track artist
 168,153,132		album line
 
-184,187,38		track playing
+250,189,47		track playing
 152,151,26		index playing
-250,189,47		artist playing
+69,133,136		artist playing
 152,151,26		album playing
 152,151,26		time playing
 
@@ -34,17 +34,21 @@
 
 168,153,132		fav line
 40,40,40		folder line
-184,187,38		folder title 
+152,151,26		folder title 
 
-131,165,152,14		playing highlight
-255,255,255,8		select highlight
-69,133,136		gallery highlight
+131,165,152,10		playing highlight
+255,255,255,7		select highlight
+152,151,26		gallery highlight
 
-#-Bottom panel------    #the panel at the bottom with buttons on it
+#-Columns--------
+152,151,26              column-title
+250,189,47              column+title
 
-80,73,69		buttons off
-235,219,178		buttons over
-250,189,47		buttons active
+#-Bottom panel------    
+
+60,56,54		buttons off
+250,189,47		buttons over
+215,153,33		buttons active
 
 69,133,136		playing time
 
@@ -55,10 +59,10 @@
 102,92,84		scroll bar
 
 60,56,54		mode off
-235,219,178		mode over
-250,189,47		mode on
+250,189,47		mode over
+215,153,33		mode on
 
-251,241,199		bottom title
+235,219,178		bottom title
 
 #-Menu-------------     #the right-click menu, and also the menu opened by the settings button
 35,35,35                menu background
@@ -70,18 +74,18 @@
 
 #-Top panel---------    #the top panel with the menu button
 
-250,189,47		tab active line
-235,219,178		tab line
+215,153,33		tab active line
+168,153,132		tab line
 32,32,32		tab background
-60,56,54		tab over
-45,45,45		tab active background
+40,40,40		tab over
+40,40,40		tab active background
 69,133,136		music vis
 
 #-Side panel--------    #panel that shows info of currently playing track
 
-251,241,199		title info
-235,219,178		extra info
-69,133,136		art border
+215,153,33		title info
+168,153,132		extra info
+32,32,32		art border
 
 #-Mini Mode---------    #mini mode is activated by F8
 
@@ -90,5 +94,5 @@
 
 #Mini mode text         #for some reason it doesn't actually use these colors
 
-69,133,50               mini text 1
+69,133,136              mini text 1
 250,189,47              mini text 2
