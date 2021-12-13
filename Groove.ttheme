@@ -1,14 +1,37 @@
 #Snoopa Music Box theme file
 
 
+#32,32,32       bg0
+#40,40,40       bg1
+
+#104,157,106    aqua
+#142,192,124    light aqua
+
+#69,133,136     blue
+#131,165,152    light blue
+
+#250,189,47     light yellow
+#215,153,33     yellow
+
+#152,151,26     green
+#184,187,38     light green
+
+#177,98,134     purple
+#211,134,155    light purple
+
+#213,196,161    track line
+#168,153,132    old fg
+
+
+
 #-Backgrounds-----      #backgrounds of several elements
 
 32,32,32		player background (top panel)
-40,40,40	  	playlist panel
+40,40,40	  playlist panel
 32,32,32		side panel
 32,32,32		bottom panel
 32,32,32		gallery background
-32,32,32        	queue panel
+32,32,32    queue panel
 
 #-Frame--------         #not sure what this is
 
@@ -19,34 +42,34 @@
 #-Playlist-------       
 
 168,153,132		track line
-168,153,132 		track time
+168,153,132 	track time
 168,153,132		track index
 69,133,136		track artist
 168,153,132		album line
 
 250,189,47		track playing
 152,151,26		index playing
-69,133,136		artist playing
+131,165,152		artist playing
 152,151,26		album playing
 152,151,26		time playing
 
-251,73,52		track missing
+251,73,52		  track missing
 
 168,153,132		fav line
-40,40,40		folder line
+40,40,40		  folder line
 152,151,26		folder title 
 
-131,165,152,10		playing highlight
-255,255,255,7		select highlight
-152,151,26		gallery highlight
+215,153,33,11	playing highlight
+152,151,26,9	select highlight
+215,153,33		gallery highlight
 
-#-Columns--------
+#-Columns--------152,151,26 131,165,152
 152,151,26              column-title
 250,189,47              column+title
 
 #-Bottom panel------    
 
-60,56,54		buttons off
+60,56,54		  buttons off
 250,189,47		buttons over
 215,153,33		buttons active
 
@@ -54,11 +77,11 @@
 
 69,133,136		seek bar
 69,133,136		volume bar
-60,56,54		seek bg
-60,56,54		volume bg
-102,92,84		scroll bar
+60,56,54		  seek bg
+60,56,54		  volume bg
+102,92,84		  scroll bar
 
-60,56,54		mode off
+60,56,54		  mode off
 250,189,47		mode over
 215,153,33		mode on
 
@@ -66,7 +89,7 @@
 
 #-Menu-------------     #the right-click menu, and also the menu opened by the settings button
 35,35,35                menu background
-32,32,32	        menu border
+32,32,32	              menu border
 60,56,54                menu highlight
 235,219,178             menu text
 168,153,132             menu disable text
@@ -76,16 +99,16 @@
 
 215,153,33		tab active line
 168,153,132		tab line
-32,32,32		tab background
-40,40,40		tab over
-40,40,40		tab active background
+32,32,32		  tab background
+40,40,40		  tab over
+40,40,40		  tab active background
 69,133,136		music vis
 
 #-Side panel--------    #panel that shows info of currently playing track
 
 215,153,33		title info
 168,153,132		extra info
-32,32,32		art border
+215,153,33		art border
 
 #-Mini Mode---------    #mini mode is activated by F8
 
