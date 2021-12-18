@@ -18,7 +18,7 @@
 69,133,136		track artist
 168,153,132		album line
 
-250,189,47		track playing
+215,153,33		track playing
 152,151,26		index playing
 152,151,26		artist playing
 152,151,26		album playing
@@ -45,7 +45,7 @@
 131,165,152		column+comment
 
 177,98,134              column-title
-250,189,47              column+title
+215,153,33              column+title
 
 104,157,106		column-album-artist
 215,153,33		column+album-artist
@@ -81,7 +81,7 @@
 
 #-Menu-------------     # the right-click menu, and also the menu opened by the settings button
 35,35,35                menu background
-32,32,32	               menu border
+32,32,32	        menu border
 60,56,54                menu highlight
 235,219,178             menu text
 168,153,132             menu disable text
@@ -89,18 +89,18 @@
 
 #-Top panel---------    # the top panel with the menu button
 
-215,153,33		          tab active line
-168,153,132		          tab line
-32,32,32		            tab background
-40,40,40		            tab over
-40,40,40		            tab active background
-69,133,136		          music vis
+215,153,33		tab active line
+168,153,132		tab line
+32,32,32		tab background
+40,40,40		tab over
+40,40,40		tab active background
+69,133,136		music vis
 
 #-Side panel--------    # panel that isn't gallery
 
-215,153,33		          title info
-168,153,132		          extra info
-215,153,33		          art border
+215,153,33		title info
+168,153,132		extra info
+215,153,33		art border
 
 #-Mini Mode---------    # mini mode is activated by F8
 
@@ -114,5 +114,5 @@
 
 
 #-Misc--------------
-32,32,32                artist bio background
-168,153,132             artist bio text
+32,32,32        artist bio background
+168,153,132     artist bio text
