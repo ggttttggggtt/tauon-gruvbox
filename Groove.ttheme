@@ -83,9 +83,28 @@
 35,35,35                menu background
 32,32,32	        menu border
 60,56,54                menu highlight
-235,219,178             menu text
+189,174,147             menu text
 168,153,132             menu disable text
 80,73,69                menu icons
+
+#-Dialog box---------
+
+40,40,40                box background
+60, 56, 54              box border
+
+245,255,245             box title text
+146, 131, 116             box text label
+
+189,174,147             box text normal
+189,174,147             box sub text
+242,239,255             box input text
+40,40,40                box text border
+
+189,174,147             box button text normal
+#                       box button text highlight
+60,56,54                box button background normal
+69,133,136              box button background highlight
+#                       box button border
 
 #-Top panel---------    # the top panel with the menu button
 
