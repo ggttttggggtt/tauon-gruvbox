@@ -13,7 +13,7 @@
 #-Playlist-------       # main panel
 
 168,153,132		track line
-168,153,132 		track time
+146,131,116 		track time
 168,153,132		track index
 69,133,136		track artist
 168,153,132		album line
@@ -26,7 +26,7 @@
 
 251,73,52		track missing
 
-168,153,132		fav line
+146,131,116		fav line
 40,40,40		folder line
 152,151,26		folder title 
 
@@ -40,6 +40,12 @@
 
 104,157,106		column-genre
 215,153,33		column+genre
+
+146,131,116             column-date
+152,151,26              column+date
+
+146,131,116             column-codec
+152,151,26              column+codec
 
 69,133,136		column-comment
 131,165,152		column+comment
@@ -133,5 +139,5 @@
 
 
 #-Misc--------------
-32,32,32        artist bio background
-168,153,132     artist bio text
+32,32,32                artist bio background
+168,153,132             artist bio text
